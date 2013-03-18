@@ -1,0 +1,5 @@
+name: RPCraft
+main: com.github.hackr1.rpcraft.RPCraftPlugin
+version: 0.0.01 indev
+author: hackr1
+description: A simple yet powerful roleplay plugin for Bukkit.
