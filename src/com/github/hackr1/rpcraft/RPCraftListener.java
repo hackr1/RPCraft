@@ -16,5 +16,6 @@ public class RPCraftListener implements Listener {
 	    public void onPlayerLogin(PlayerLoginEvent event) {
 	        out.info("[RPCraft] Player " + event.getPlayer().getName() + "logged in!");
 	        event.getPlayer().sendMessage("[RPCraft] Welcome to this Server!");
+	        //if()
 	    }
 }

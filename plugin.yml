@@ -3,3 +3,9 @@ main: com.github.hackr1.rpcraft.RPCraftPlugin
 version: 0.0.01 indev
 author: hackr1
 description: A simple yet powerful roleplay plugin for Bukkit.
+commands:
+   rp:
+      description: This is a demo command.
+      usage: /<command> <action> <parameters>
+      permission: <plugin name>.usecmd
+      permission-message: You don't have <permission>
